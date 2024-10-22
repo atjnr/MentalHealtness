@@ -1,0 +1,66 @@
+.rincian {
+  position: relative;
+  margin-top: 50px;
+  margin-left: 20%;
+  width: 755px;
+  height: 730px;
+  background-color: white;
+  border-radius: 10px;
+  border: 1px solid gainsboro;
+}
+
+.rincian h5 {
+  position: relative;
+  text-align: center;
+  top: 3%;
+  color: #860e0e;
+}
+
+.container .form {
+  padding: 30px 85px;
+}
+
+.form .input-txt {
+  position: relative;
+  height: 25px;
+  width: 100%;
+}
+
+.input-txt p {
+  margin-left: 15%;
+}
+
+.input-txt select {
+  position: relative;
+  margin-left: 15%;
+  margin-bottom: 5%;
+  width: 70%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid gainsboro;
+}
+
+.input-txt input {
+  position: relative;
+  margin-left: 15%;
+  margin-bottom: 5%;
+  width: 70%;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid gainsboro;
+}
+
+.rincian .input {
+  width: 397px;
+  height: 38px;
+  margin-left: 24%;
+  margin-top: 30px;
+  background-color: #860e0e;
+  color: white;
+  border: 1px solid;
+  border-radius: 30px 30px;
+}
+
+.rincian .input:hover {
+  background-color: #761e1e;
+}

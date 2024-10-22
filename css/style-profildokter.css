@@ -1,0 +1,118 @@
+.img {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  left: 5%;
+  top: 21%;
+  border-radius: 50px 50px;
+}
+
+.title {
+  margin-left: 50px;
+  color: #860e0e;
+}
+
+.profile-box {
+  position: relative;
+  left: 4%;
+  width: 650px;
+  height: 130px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.1);
+}
+
+.profile-box input {
+  background: white;
+  position: absolute;
+  height: 25px;
+  width: 65px;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  cursor: pointer;
+  background: white;
+  border-radius: 5px;
+  left: 85%;
+}
+
+.profile-box .profil {
+  position: relative;
+  margin-left: 20%;
+  top: 10%;
+}
+
+.about-dokter {
+  position: relative;
+  left: 4%;
+  width: 650px;
+  height: 500px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.1);
+  margin-top: 25px;
+}
+
+.about-dokter h5 {
+  position: relative;
+  left: 5%;
+  top: 5%;
+}
+
+.about-dokter .detail {
+  position: relative;
+  margin-left: 5%;
+  top: 10%;
+}
+
+.jadwal {
+  position: relative;
+  right: -60%;
+  width: 440px;
+  height: 655px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.1);
+  margin-top: -51.7%;
+}
+
+.jadwal h5 {
+  position: relative;
+  left: 8%;
+  top: 3%;
+}
+
+.jadwal .detail {
+  position: relative;
+  margin-left: 8%;
+  margin-top: 12%;
+}
+
+.status .image {
+  position: absolute;
+  left: 106px;
+  margin-top: 8px;
+}
+
+.status p {
+  color: black;
+  position: absolute;
+  top: 11%;
+  left: 120px;
+  transform: translateY(-55%);
+}
+
+.detail input {
+  width: 400px;
+  height: 38px;
+  margin-left: -13px;
+  margin-top: 30px;
+  background-color: #860e0e;
+  color: white;
+  border: 1px solid;
+  border-radius: 30px 30px;
+}
+
+.detail input:hover {
+  background-color: #761e1e;
+}
